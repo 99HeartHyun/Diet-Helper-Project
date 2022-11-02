@@ -5,6 +5,7 @@
 사용자의 다이어트 식단에 도움을 주고자 사용자가 섭취할 식단(일반식/샐러드)을 \
 사진으로 찍어 입력하면 해당 식단의 칼로리를 제공하는 것이 목표이다.
 
+
 **데이터 셋**
 
 Roblflow
@@ -20,15 +21,18 @@ AIHub
 Kaggle
 - 'Calories in Food Items (per 100 grams)' (csv/xlsx 파일)
 
+
 **사용 학습 모델**
 
 YOLOV5
 - https://github.com/ultralytics/yolov5.git
 
+
 **제약 조건**
 
 여러가지 재료가 혼합된 음식의 경우 총합 칼로리는 구할 수 있으나 \
 각 재료의 칼로리는 얻기가 힘듦
+
 
 **개선 방안**
 
