@@ -1,3 +1,1 @@
-#Diet Helper Project
-
-**주제**
+# Diet Helper Project
